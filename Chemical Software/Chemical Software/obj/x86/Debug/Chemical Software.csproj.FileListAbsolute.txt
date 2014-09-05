@@ -1,0 +1,10 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\Chemical Software\Chemical Software\obj\x86\Debug\WindowsFormsApplication1.dashboard.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\Chemical Software\Chemical Software\obj\x86\Debug\WindowsFormsApplication1.login.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\Chemical Software\Chemical Software\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\Chemical Software\Chemical Software\obj\x86\Debug\Chemical Software.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\Chemical Software\Chemical Software\bin\Debug\Chemical Software.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\Chemical Software\Chemical Software\bin\Debug\Chemical Software.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\Chemical Software\Chemical Software\obj\x86\Debug\Chemical Software.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\Chemical Software\Chemical Software\obj\x86\Debug\Chemical Software.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\Chemical Software\Chemical Software\bin\Debug\Chemical Software.exe.config
+C:\Users\Administrator\documents\visual studio 2010\Projects\Chemical Software\Chemical Software\obj\x86\Debug\WindowsFormsApplication1.inForm.resources
